@@ -74,41 +74,41 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="92" y="92" width="1736" height="896" key="AVDManager" timestamp="1620198720557">
+    <state x="139" y="144" width="1736" height="896" key="AVDManager" timestamp="1620682670928">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="92" y="92" width="1736" height="896" key="AVDManager/0.0.1920.1080@0.0.1920.1080" timestamp="1620198720557" />
+    <state x="139" y="144" width="1736" height="896" key="AVDManager/0.0.1920.1080@0.0.1920.1080" timestamp="1620682670928" />
     <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1620434437992">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1620434437992" />
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1620439420874">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom" timestamp="1620682693858">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1620439420874" />
-    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1620439420874">
+    <state width="1877" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1620682693858" />
+    <state width="1877" height="295" key="GridCell.Tab.0.center" timestamp="1620682693858">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1620439420874" />
-    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1620439420874">
+    <state width="1877" height="295" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1620682693858" />
+    <state width="1877" height="295" key="GridCell.Tab.0.left" timestamp="1620682693858">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1620439420874" />
-    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1620439420874">
+    <state width="1877" height="295" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1620682693858" />
+    <state width="1877" height="295" key="GridCell.Tab.0.right" timestamp="1620682693858">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1620439420874" />
-    <state x="461" y="185" key="SettingsEditor" timestamp="1620439036541">
+    <state width="1877" height="295" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1620682693858" />
+    <state x="461" y="185" key="SettingsEditor" timestamp="1620682668849">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="461" y="185" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1620439036541" />
+    <state x="461" y="185" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1620682668849" />
     <state x="571" y="218" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1620428000860">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="571" y="218" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1620428000860" />
-    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1620439799788">
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup" timestamp="1620441858104">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1620439799788" />
+    <state x="623" y="235" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1620441858104" />
   </component>
 </project>
